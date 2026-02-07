@@ -89,4 +89,17 @@ branch 'main' set up to track 'origin/main'.
 18. Refresh GitHub and check the files
 you will be able to see the files from vscode to git repo
 
-19.
+19. if you want to add some notes in README.md then you can directly edit in git and commit the changes ( enter commit note and to edit click on pencil button to edit )
+
+20. after editing the notes, you can go to VS Code and do the below commend
+	git pull
+
+21. go to source control page ( ctrl + shift + G ) to save pending changes.
+22. enter the comment for commit changes.
+and press Commit button.
+23. popup appears as "would you like ot stage all your changes and commit them directly?"
+press "Yes"
+
+24. then push the commit click on OK.
+
+
